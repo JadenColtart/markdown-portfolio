@@ -1,2 +1,2 @@
-#Replace this with your name, and include a header.
-# 
+#Jaden Somt Leader.
+# Somt god
