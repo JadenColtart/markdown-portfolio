@@ -1,3 +1,3 @@
-- SOMT
-- Rainbow Six Siege
-- Pizza
+* Pizza
+* SOMT
+* PC
